@@ -20,7 +20,7 @@ Github is a great way to store your projects. You can have access to you files f
 
 ![step 3](./images/step_3.png)
 
-#### For for information on how to write a good READMEs
+## For for information on how to write a good READMEs
 
 - [awesome-readme](https://github.com/matiassingers/awesome-readme) - A repository of several READMEs to draw inspiration from
 
